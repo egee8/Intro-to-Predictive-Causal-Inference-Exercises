@@ -1,6 +1,6 @@
 This repository contains my work for an introductory class I took on predictive and causal inference using R with Professor Alexis Diamond.
 
-**Course Description**
+***Course Description***
 Learn how to extract meaning from data using modern approaches such as Bayesian Inference. Armed with this
 information apply the tools of decision science to solve a wide range of problems. The course focuses primarily on
 applying statistical inference and formal models of decision making to design practical solutions. Students frame
